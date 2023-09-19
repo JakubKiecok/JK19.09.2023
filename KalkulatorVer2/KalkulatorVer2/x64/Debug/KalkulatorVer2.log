@@ -1,0 +1,4 @@
+﻿  KalkulatorVer2.cpp
+C:\Users\Programista\Desktop\JKiecok 2CT\JK19.09.2023\KalkulatorVer2\KalkulatorVer2\KalkulatorVer2.cpp(62): warning C4715: "pierwiastekliczba1”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\Programista\Desktop\JKiecok 2CT\JK19.09.2023\KalkulatorVer2\KalkulatorVer2\KalkulatorVer2.cpp(67): warning C4715: "pierwiastekliczba2”: niewszystkie ścieżki kodu zwracają wartość
+  KalkulatorVer2.vcxproj -> C:\Users\Programista\Desktop\JKiecok 2CT\JK19.09.2023\KalkulatorVer2\x64\Debug\KalkulatorVer2.exe

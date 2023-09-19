@@ -1,0 +1,4 @@
+﻿  Energia.cpp
+C:\Users\Programista\Desktop\JKiecok 2CT\JK19.09.2023\Energia\Energia\Energia.cpp(25,32): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Programista\Desktop\JKiecok 2CT\JK19.09.2023\Energia\Energia\Energia.cpp(30,27): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+  Energia.vcxproj -> C:\Users\Programista\Desktop\JKiecok 2CT\JK19.09.2023\Energia\x64\Debug\Energia.exe
